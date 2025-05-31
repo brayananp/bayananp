@@ -1,4 +1,4 @@
-# 👨‍💻 Alexis Dev | Ingeniero de Sistemas | Desarrollador Full Stack
+# 👨‍💻 Brayan Nuñez | Ingeniero de Sistemas | Desarrollador Full Stack
 
 ¡Hola! Soy Brayan, ingeniero de sistemas con sede en Lima, Perú. Me dedico al desarrollo de software a medida y la creación de aplicaciones web modernas, tanto en el frontend como en el backend. Trabajo como freelance y tengo un fuerte compromiso con la mejora continua, la arquitectura de software sólida y las buenas prácticas de desarrollo.
 
@@ -60,4 +60,4 @@
 
 
 > _"La programación no es solo código, es también arquitectura, diseño y experiencia."_  
-> — Brayan
+> — Brayan Nuñez
