@@ -5,62 +5,59 @@
 ## 🧰 Tech Stack
 
 ### 🔹 Frontend
-- React.js / Next.js / vueJS
-- TailwindCSS
-- HTML5 / CSS3 / JavaScript (ES6+)
-- UI/UX principles and component-based design
+- ⚛️ React.js / Next.js / Vue.js  
+- 🎨 TailwindCSS  
+- 💻 HTML5 / CSS3 / JavaScript (ES6+)  
+- 🧩 Diseño basado en componentes y principios UI/UX
 
 ### 🔹 Backend
-- AdonisJS (Node.js Framework)
-- API RESTful / JSON
-- Autenticación y control de acceso
-- Arquitectura MVC
+- 🚀 AdonisJS (Framework Node.js)  
+- 🔐 APIs RESTful / JSON / Autenticación y control de acceso  
+- 🧱 Arquitectura MVC y separación de capas
 
 ### 🔹 Base de Datos
-- PostgreSQL / MySQL
-- Diseño y modelado relacional
-- Prisma ORM
-- Normalización y optimización de consultas
+- 🐘 PostgreSQL / MySQL  
+- 🗂️ Modelado relacional y normalización  
+- 🧬 Prisma ORM  
+- 📊 Optimización de consultas
 
-### 🔹 DevOps / Tools
-- Git & GitHub
-- Vercel / Netlify / Railway
-- Docker (nivel básico-intermedio)
-- Postman / Insomnia para pruebas de APIs
+### 🔹 DevOps & Tools
+- 🧪 Postman / Insomnia (pruebas de API)  
+- 🐳 Docker (nivel básico-intermedio)  
+- ☁️ Vercel / Netlify / Railway (deploy)  
+- 🛠️ Git & GitHub (flujo Git Flow)
 
 ---
 
 ## 🧠 Sobre mí
 
-- 🚀 Apasionado por el **diseño de software**, **modelado de bases de datos** y **patrones de arquitectura**.
-- ⚽ En mis tiempos libres disfruto jugar fútbol y explorar nuevas tecnologías.
-- 📈 Enfocado en crecer como **arquitecto de software** y mejorar continuamente como programador profesional.
-- 🧩 Me encanta resolver problemas complejos mediante estructuras de código limpias, modulares y escalables.
-- 🤝 Siempre abierto a colaborar en proyectos interesantes y desafiantes.
+- 🚀 Apasionado por el **diseño de software**, el **modelado de bases de datos** y los **patrones de arquitectura** modernos.
+- ⚽ En mis tiempos libres disfruto **jugar fútbol** y mantenerme al día con nuevas tecnologías.
+- 📈 Enfocado en crecer como **arquitecto de software** y mantener una mejora técnica continua.
+- 🧩 Me gusta enfrentar y resolver **problemas complejos** con soluciones **modulares**, **escalables** y **mantenibles**.
+- 🤝 Siempre abierto a colaborar en **proyectos desafiantes**, tanto a nivel técnico como estratégico.
 
 ---
 
-## 📌 Metodologías y Principios
+## 📊 GitHub Stats
 
-- Clean Code
-- SOLID
-- Domain-Driven Design (DDD)
-- Agile / SCRUM
-- Git Flow
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brayannunez&show_icons=true&theme=github_dark&hide_border=true" alt="Alexis Dev GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brayannunez&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
-
 ## 📫 Contacto
 
-¿Tienes un proyecto interesante o deseas colaborar? ¡Conectemos!
+¿Tienes un proyecto interesante o estás buscando colaboración profesional?  
+¡Será un gusto trabajar contigo!
 
 - ✉️ Email: [brayannunezpesantes@gmail.com]
 
 ---
-## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=brayanap&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 > _"La programación no es solo código, es también arquitectura, diseño y experiencia."_  
 > — Brayan
