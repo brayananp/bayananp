@@ -57,7 +57,10 @@
 - ✉️ Email: [brayannunezpesantes@gmail.com]
 
 ---
+## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=brayanap&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 > _"La programación no es solo código, es también arquitectura, diseño y experiencia."_  
 > — Brayan
