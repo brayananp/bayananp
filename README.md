@@ -57,6 +57,7 @@
 - ✉️ Email: [brayannunezpesantes@gmail.com]
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=brayanap&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 > _"La programación no es solo código, es también arquitectura, diseño y experiencia."_  
 > — Brayan
