@@ -42,10 +42,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brayannunez&show_icons=true&theme=github_dark&hide_border=true" alt="Alexis Dev GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brayananp&show_icons=true&theme=github_dark&hide_border=true" alt="Alexis Dev GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brayannunez&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brayananp&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
